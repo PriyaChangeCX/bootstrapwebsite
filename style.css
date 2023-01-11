@@ -1,0 +1,65 @@
+.logo-icon{
+    opacity: 0.8;
+}
+.logo-icon:hover{
+    opacity: 1.0;
+}
+.search-box:hover ,.form-box:hover, .e-mail-box:hover{
+    border: 1px solid #5794BF;
+}
+/* .learn-btn:hover{
+    color:#5794BF;
+} */
+
+.img-flex{
+    height:200px;
+    
+    overflow: hidden;
+ 
+}
+.img-flex img {
+    height: 100%;
+    max-width: 100%;
+    width: auto;
+}
+.info-box{
+    padding: 5px 5px 15px 10px;
+    
+}
+.product-box:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }
+.icon-detail{
+    position: relative;
+    display:flex;
+    width:100%
+}
+.circle-icon{
+    width:62px;
+    height:62px
+}
+.icon{
+    /* width: 2em !important;
+    height: 1.3em !important; */
+margin: 7px;
+}
+.img-box{
+    text-decoration: none;
+    color:black;
+}
+.link-footer{
+    text-decoration: none;
+    color:grey;
+}
+.img-box:hover ,.link-footer:hover{
+    text-decoration:underline;
+    color:#0d6efd;
+}
+.img-post {
+    width:250px;
+    height: 160px;
+}
+.flag-icon{
+    width:30px;
+    height:20px;
+}
